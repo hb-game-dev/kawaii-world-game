@@ -1,9 +1,11 @@
 Kawaii World Game | Open Source Build Status
+
 Kawaii World Game is an Open Source game for Kawaii World Engine.
 
 Kawaii World Game is based on the Minetest Game and MultiCraft Game, which are developed by a number of contributors. They also uses many mods from various developers with various licenses. Carefully read the README and LICENSE files in each folder.
 
 Copyright © 2021 HB Games
+
 Copyright © 2014-2020 MultiCraft Development Team
 
 Kawaii World Game is licensed under LGPLv3 (or higher). Resources games licensed under CC-BY-SA 4.0, unless otherwise stated.
