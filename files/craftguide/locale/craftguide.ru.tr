@@ -1,0 +1,19 @@
+# textdomain: craftguide
+Crafting Guide=Руководство Крафта
+Craft Guide=Руководство
+Usage:=Примен.:
+Recipe:=Рецепт:
+Page:=Страница:
+@1 of @2=@1 из @2
+Clear=Очистить
+Search=Искать
+Previous page=Предыдущая страница
+Next page=Следующая страница
+Any item belonging to the groups:=Любые предметы из групп:
+Burning time:=Время горения:
+Shapeless=Произвольное размещение
+Cooking time:=Время приготовления:
+No items to show.=Ничего не найдено.
+No usages.\nClick again to show recipes.=Не является ингридиентом.\nНажмите снова для рецептов крафта.
+No recipes.\nClick again to show usages.=Не крафтится.\nНажмите снова для просмотра применений.
+Select an item from the list\nto view recipes and usages.=Выберите предмет из списка,\nдля просмотра рецептов и применений.

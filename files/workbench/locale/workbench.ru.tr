@@ -1,0 +1,30 @@
+# textdomain: workbench
+Workbench=Верстак
+Workbench: @1=Верстак: @1
+Carving=Нарезка
+Anvil=Наковальня
+< Back=< Назад
+Crafting Guide=Руководство Крафта
+Craft All=Скрафтить Всё
+Hammer=Молот
+
+Workbench=Верстак
+Apple Wood Workbench=Верстак из Дерева Яблони
+Acacia Wood Workbench=Верстак из Дерева Акации
+Birch Wood Workbench=Верстак из Дерева Берёзы
+Jungle Wood Workbench=Верстак из Джунгли-дерева
+Pine Wood Workbench=Верстак из Дерева Сосны
+Cherry Blossom Wood Workbench=Верстак из Дерева Сакуры
+
+Micropanel=(Половина Мини-панели)
+Microslab=(Мини-панель)
+Thinstair=(Тонкая Лестница)
+Cube=(Кубик)
+Panel=(Половина Панели)
+Slab=(Панель)
+Doublepanel=(Двойная Панель)
+Halfstair=(Половина Ступенек)
+Outerstair=(Внешние Ступеньки)
+Stair=(Ступеньки)
+Slope=(Уклон)
+Innerstair=(Внутренние Ступеньки)

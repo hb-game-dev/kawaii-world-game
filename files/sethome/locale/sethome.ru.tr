@@ -1,0 +1,36 @@
+# textdomain: sethome
+Home position set!=Точка Дома установлена!
+Public Home position set!=Публичная точка Дома установлена!
+Other players can teleport to you using "/home @1"=Другие игроки могут телепортироваться к вам, используя "/home @1"
+You cannot set Public Home on this place!=Вы не можете установить Публичную точку Дома на этом месте!
+Public Home position deleted!=Публичная точка Дома удалена!
+Wrong parameter! Please, check input=Неправильный параметр! Пожалуйста, проверьте ввод
+Home position is not set!=Точка Дома не установлена!
+You should stand to teleport!=Вы должны стоять, чтобы телепортироваться!
+Teleported to Home!=Телепортировано Домой!
+Teleported to "@1" Home!=Телепортировано Домой к игроку "@1"!
+Teleportation to this Home is unsafe!=Телепортация в этот Дом небезопасна!
+Player "@1" haven't public Home!=Игрок @1 не имеет публичной точки Дома!
+Player "@1" is not in the game!=Игрок "@1" не в игре!
+Set a Home position using "/sethome"=Установите точку Дома используя "/sethome"
+Set your Private or Public Home point=Устанавливает вашу Личную или Публичную точку Дома
+Teleport you to your Private or Public Home point=Телепортирует вас в Личную или Публичную точку Дома
+[<PlayerName>]=[<ИмяИгрока>]
+My Home=Мой Дом
+Private Home point:\n@1=Личная точка Дома:\n@1
+Private Home point:\nnot set!=Личная точка Дома:\nне установлена!
+Public Home point:\n@1 - @2=Публичная точка Дома:\n@1 - @2
+Public Home point:\nnot set!=Публичная точка Дома:\nне установлена!
+Your Home=Ваш Дом
+Update=Обновить
+Remove=Удалить
+Set=Установить
+Yes=Да
+No=Нет
+Enter Home name:=Введите название Дома:
+Other Player's Homes=Дома других Игроков
+Page: @1 of @2=Страница: @1 из @2
+
+Are you sure you want to update your Private Home point at @1?=Вы уверены, что хотите обновить вашу Личную точку Дома на @1?
+Are you sure you want to update your Public Home point at @1?=Вы уверены, что хотите обновить вашу Публичную точку Дома на @1?
+Are you sure you want to delete your Public Home point?=Вы уверены, что хотите удалить вашу Личную точку Дома?
