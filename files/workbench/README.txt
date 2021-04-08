@@ -1,7 +1,7 @@
 Kawaii World Game mod: workbench
 ==============================
 
-Adding a Workbench and Stairs to MultiCraft.
+Adding a Workbench and Stairs to Kawaii World.
 The Workbench can cut up to 12 shapes, repair your tools, craft items and store.
 
 This mod is originating from [X-Decor](https://github.com/kilbith/xdecor).
