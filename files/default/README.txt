@@ -158,3 +158,8 @@ Shara RedCat (CC BY-SA 3.0):
 
 TumeniNodes (CC BY-SA 3.0):
   pine_bush.mts
+
+Authors of textures
+-------------------
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

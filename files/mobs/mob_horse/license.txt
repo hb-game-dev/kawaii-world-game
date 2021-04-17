@@ -1,0 +1,5 @@
+Code: MIT
+Textures:
+  HB Games (CC BY-SA 4.0)
+  Mjollna (CC-BY-SA 3.0)
+Model: MIT by KrupnovPavel

@@ -24,5 +24,5 @@ workbench_slope.obj from Calinou moreblocks mod (https://github.com/minetest-mod
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

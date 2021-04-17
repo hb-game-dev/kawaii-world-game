@@ -11,7 +11,7 @@ Credits:
 --------
 "Wolf" - code based on blert2112 mobs_more_animals mod (MIT)
 "Sheep" by PilzAdam (WTFPL)
-"Wolf" by KrupnovPavel (MIT)
+"Wolf" by JDiaz (CC-BY-SA 4.0)
 "Kitten" by Jordach/BFD (probably MIT?)
 "Bunny" by ExeterDad (MIT)
 
@@ -27,5 +27,5 @@ from freesounds.org under CC0
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

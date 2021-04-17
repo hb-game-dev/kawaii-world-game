@@ -36,3 +36,8 @@ stujones11 - CC-BY-SA 4.0
 
 http://www.freesound.org/people/YleArkisto/sounds/253159/ - YleArkisto - CC-BY-3.0
 	carts_cart_moving.*.ogg
+
+License of textures
+------------------------------------
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

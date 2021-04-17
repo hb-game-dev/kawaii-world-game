@@ -11,7 +11,7 @@ end
 local pi, vround = math.pi, vector.round
 
 local armor_stand_formspec = default.gui ..
-	"label[0.9,0.05;" .. S"Armor Stand" .. "]" ..
+	"image[-0.23,-0.26;9,1;formspec_armor_stand_btn.png]" ..
 	"list[current_name;armor_head;3.5,1;1,1;]" ..
 	"list[current_name;armor_legs;4.5,1;1,1;]" ..
 	"list[current_name;armor_torso;3.5,2;1,1;]" ..
@@ -20,7 +20,7 @@ local armor_stand_formspec = default.gui ..
 	"image[4.5,1;1,1;formspec_cell.png^3d_armor_inv_leggings.png]" ..
 	"image[3.5,2;1,1;formspec_cell.png^3d_armor_inv_chestplate.png]" ..
 	"image[4.5,2;1,1;formspec_cell.png^3d_armor_inv_boots.png]"..
-	"image[7.95,3.1;1.1,1.1;^[colorize:#fcb5d1]]"
+	"image[7.95,3.1;1.1,1.1;^[colorize:#ffafca]]"
 
 local elements = {"head", "torso", "legs", "feet"}
 
@@ -146,9 +146,7 @@ local function register_armor_stand(name, def)
 			local meta = minetest.get_meta(pos)
 			local pn = placer and placer:get_player_name() or ""
 			meta:set_string("infotext", S"Armor Stand" .. "\n" .. S("Owned by @1", S(pn)))
-			local formspec = armor_stand_formspec ..
-				"item_image[0,-0.1;1,1;" .. name .. "]"
-			meta:set_string("formspec", formspec)
+			meta:set_string("formspec", armor_stand_formspec)
 			local inv = meta:get_inventory()
 			for _, element in pairs(elements) do
 				inv:set_size("armor_" .. element, 1)
@@ -284,7 +282,7 @@ register_armor_stand("3d_armor_stand:armor_stand_cherry_blossom_wood", {
 })
 
 register_armor_stand("3d_armor_stand:armor_stand_ice", {
-	description = S"Ice Wood Armor Stand",
+	description = S"Ice Armor Stand",
 	tiles = {"3d_armor_stand_platform.png^3d_armor_stand_ice.png"},
 	inventory_image = "3d_armor_stand_platform_inv.png^3d_armor_stand_ice_inv.png",
 	wield_image = "3d_armor_stand_platform_inv.png^3d_armor_stand_ice_inv.png",

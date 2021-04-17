@@ -17,5 +17,5 @@ https://bitbucket.org/minetest_gamers/farming_addons
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

@@ -16,5 +16,5 @@ http://www.gnu.org/licenses/lgpl-3.0.html
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

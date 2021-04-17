@@ -17,6 +17,8 @@ http://www.gnu.org/licenses/lgpl-3.0.html
 
 Licenses of media (textures and sounds)
 ---------------------------------------
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)
 
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 Copyright (C) 2012-2016 Perttu Ahola (celeron55) <celeron55@gmail.com>

@@ -228,7 +228,8 @@ local function get_creative_formspec(player_name, start_i, pagenum, page, pagema
 	local formspec = 
 		"bgcolor[#08080880;true]" ..
 		"listcolors[#9990;#FFF7;#FFF0;#160816;#D4D2FF]" ..
-		"background[0,0;0,0;formspec_backround.png;true]" ..
+		"background[0,0;0,0;formspec_backround_creative.png;true]" ..
+		"list[detached:creative_trash;main;9.25,7.75;1.5,1.5;]" ..
 		"image_button_exit[8.55,-0.25;0.75,0.75;blank.png;exit;;true;false;blank.png]"
 		
 	local main_list
@@ -269,23 +270,23 @@ local function get_creative_formspec(player_name, start_i, pagenum, page, pagema
 		"image_button[" .. ofs_tab["brew"] .. ";1,1;blank.png;brew;;true;false;blank.png]"
 				
 		if page == "blocks" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_blocks_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_blocks_tab.png]"
 		elseif page == "stairs" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_stairs_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_stairs_tab.png]"
 		elseif page == "bluestone" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_bluestone_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_bluestone_tab.png]"
 		elseif page == "mobs" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_mobs_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_mobs_tab.png]"
 		elseif page == "misc" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_misc_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_misc_tab.png]"
 		elseif page == "food" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_food_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_food_tab.png]"
 		elseif page == "tools" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_tools_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_tools_tab.png]"
 		elseif page == "matr" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_matr_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.38,9.4;formspec_creative_matr_tab.png]"
 		elseif page == "brew" then
-			formspec = formspec .. "background[0,0;0,0;formspec_creative_brew_tab.png;true]"
+			formspec = formspec .. "background[-0.18,-0.19;9.375,9.4;formspec_creative_brew_tab.png]"
 		end
 		
 		formspec = formspec ..
@@ -296,7 +297,7 @@ local function get_creative_formspec(player_name, start_i, pagenum, page, pagema
 			"image_button[8,7.2;1,0.5;blank.png;creative_next;;;false]"
 	elseif page == "inv" then
 		formspec = formspec ..
-		"background[0,0;0,0;formspec_creative_inventory.png;true]" ..
+		"background[-0.18,-0.19;9.38,9.4;formspec_creative_inventory.png]" ..
 		"image[-0.23,-0.26;9,1;formspec_inventory_alt_btn.png]" ..
 		"image_button[0.02,-0.25;1,1;blank.png;tabs;;true;false;blank.png]" ..
 		"tooltip[tabs;" .. Sl("Creative") .. "]" ..
@@ -318,7 +319,7 @@ local function get_creative_formspec(player_name, start_i, pagenum, page, pagema
 	elseif page == "all" then
 		main_list = get_button_formspec(player_name, start_i, page)
 		formspec = formspec ..
-		"background[0,0;0,0;formspec_creative_search.png;true]" ..
+		"background[-0.18,-0.19;9.38,9.4;formspec_creative_search.png]" ..
 		"image[-0.23,-0.26;9,1;formspec_search_btn.png]" ..
 		"image_button[0.02,-0.25;1,1;blank.png;tabs;;true;false;blank.png]" ..
 		"tooltip[tabs;" .. Sl("Creative") .. "]" ..
@@ -371,7 +372,7 @@ local function register_tab(name, title)
 			local pagemax = ceil(inv.size / 45)
 			local formspec = get_creative_formspec(player_name, start_i,
 					pagenum, name, pagemax, title)
-			return sfinv.make_formspec(player, context, formspec, false, "size[9,8.75]")
+			return sfinv.make_formspec(player, context, formspec, false, "size[10,8.75]")
 		end,
 		on_enter = function(_, player)
 			local player_name = player:get_player_name()

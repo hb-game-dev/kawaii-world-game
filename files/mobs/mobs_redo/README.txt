@@ -16,8 +16,8 @@ If we forget about someone, please contact us.
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)
 
 License of sounds
 -----------------

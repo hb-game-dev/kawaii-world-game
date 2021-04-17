@@ -13,8 +13,8 @@ License : WTFPL
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)
 
 This mod adds a bed to MultiCraft which allows players to skip the night.
 To sleep, right click on the bed. If playing in singleplayer mode the night gets skipped

@@ -11,5 +11,5 @@ Copyright (C) 2016 TenPlus1 (MIT)
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

@@ -14,5 +14,4 @@ MultiCraft Development Team (CC BY-SA 3.0)
 
 Authors of textures
 -------------------
-Mariiecx
 HB Games

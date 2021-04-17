@@ -19,7 +19,8 @@ MultiCraft Development Team (MIT)
 
 Licenses of media (textures)
 ----------------------------
-MultiCraft Development Team (CC-BY-SA 4.0)
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)
 
 Authors of media (models)
 -------------------------

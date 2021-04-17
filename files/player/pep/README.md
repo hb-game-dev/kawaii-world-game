@@ -70,5 +70,5 @@ Craft: 1 steel pickaxe, 1 steel shovel, 1 glass bottle.
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)

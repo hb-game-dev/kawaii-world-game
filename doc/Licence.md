@@ -79,10 +79,13 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 License of media (textures)
 ===========================
 
-Copyright (C) Mariiecx 
+Copyright (C) Nova_Wostra
+https://www.planetminecraft.com/member/nova_wostra
 
-http://www.planetminecraft.com/member/mariiecx
+Copyright (C) HB Games
 
+Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
 --- --- ---
 
 	Thanks to all the people who helped make the world better!

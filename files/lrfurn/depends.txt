@@ -1,3 +1,0 @@
-default
-colored
-dye

@@ -7,7 +7,8 @@ mobs:register_mob("mobs_animals:panda", {
 	mesh = "mobs_panda.b3d",
 	collisionbox = {-0.4, -0.45, -0.4, 0.4, 0.45, 0.4},
 	animation = {
-		speed_normal = 15,
+		speed_normal = 20,
+		speed_run = 35,
 		stand_start = 130,
 		stand_end = 270,
 		stand1_start = 0,

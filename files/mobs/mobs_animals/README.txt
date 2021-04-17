@@ -11,7 +11,7 @@ License of source code
 
 License of models
 -----------------
-"Fox" by D00Med (CC BY-SA 3.0)
+"Fox" by JDiaz (CC-BY-SA 4.0)
 "Cow" by Krupnov Pavel and TenPlus1 (MIT)
 "Chicken" by Krupnov Pavel and TenPlus1 (MIT)
 "Panda" by Krupnov Pavel and TenPlus1 (MIT)
@@ -22,5 +22,5 @@ from freesounds.org under CC0
 
 Authors of textures
 -------------------
-Mariiecx
-HB Games
+HB Games (CC BY-SA 4.0)
+Nova_Wostra (CC BY-SA 4.0)
